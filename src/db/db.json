@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "username": "adm1",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "username": "adm11",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "username": "adm111",
+      "password": "password"
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "raju",
+      "course": "python"
+    },
+    {
+      "id": 2,
+      "name": "raj",
+      "course": "angular"
+    },
+    {"id": 3,
+      "name": "ramu",
+      "course": "python"
+    },
+    {
+      "id": 4,
+      "name": "radha",
+      "course": "react"
+    }
+  ]
+}
